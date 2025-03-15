@@ -8,6 +8,8 @@ Under no circumstances should this script be used to test or exploit websites or
 
 By using this script, you acknowledge and agree to these terms and conditions. Any actions taken using this tool are your sole responsibility.
 
+Important Note for Option 2: Please be aware that due to redirects implemented by either Google or the target WordPress site, this option may sometimes generate false positive results. Always manually verify the findings to ensure accuracy.
+
 **Nebula Strike Usage Guide:**
 
 Nebula Strike is a Python-based penetration testing tool for WordPress websites, offering features like brute-forcing, registration exploitation, subdomain gathering, and SQL injection detection.
