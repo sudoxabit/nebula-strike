@@ -1,13 +1,6 @@
-https://www.jjcollegegaya.ac.in/staff-page.php?id=12
-https://www.spsphulpur.in/page.php?id=12
-https://www.spsphulpur.in/page.php?id=12
-https://www.smdcollegepunpun.ac.in/staff-page.php?id=12
-http://www.miassgrk.ru/page.php?table=settings&id=12
-http://www.miassgrk.ru/page.php?table=settings&id=12
-http://www.miassgrk.ru/page.php?table=settings&id=12
-http://www.miassgrk.ru/page.php?table=settings&id=12
-http://ksrcollege.in/staff-page.php?id=12
-http://www.sntpublicschool.in/page.php?id=12
-http://www.sntpublicschool.in/page.php?id=12
-https://icebm.ro/page.php?id=12
-https://icebm.ro/page.php?id=12
+add a list of url's to test sql injection using parameters 
+
+https://www.example.com/page.php?id=12
+
+
+thank you
