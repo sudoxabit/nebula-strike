@@ -3,8 +3,11 @@ HOW TO USE NEBULA EXPLOITER :
 open linux :
 
 git clone https://github.com/sudoxabit/nebula-strike.git
+
 cd nebula-strike
+
 pip3 install -r requirements.txt 
+
 python3 NebulaStrike.py
 
 now option 1 skip that thats under dev :
