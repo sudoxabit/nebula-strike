@@ -1,3 +1,7 @@
+# TOOL DESCRIPTION :
+
+Nebula Exploiter is a powerful penetration testing tool designed to automate WordPress login checking, registration exploitation, and SQL injection detection. It simplifies testing processes for security researchers and bug bounty hunters.
+
 # Nebula Exploiter - Usage Guide
 
 ## Installation
